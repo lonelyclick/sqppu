@@ -1,0 +1,47 @@
+# ResponseSearchPackage
+
+## Properties
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**package_id** | **string** |  | [optional] 
+**ocs_package_id** | **int** |  | [optional] 
+**sim_iccid** | **string** |  | [optional] 
+**epoch_created** | **int** |  | [optional] 
+**epoch_expiry** | **int** |  | [optional] 
+**epoch_to_be_activated** | **int** |  | [optional] 
+**epoch_activated** | **int** |  | [optional] 
+**epoch_terminated** | **int** |  | [optional] 
+**window_activate_start** | **int** |  | [optional] 
+**window_activate_end** | **int** |  | [optional] 
+**use_status** | **string** |  | [optional] 
+**epoch_modified** | **int** |  | [optional] 
+**time_allowance_in_seconds** | **int** |  | [optional] 
+**voice_usage_remaining_in_seconds** | **int** |  | [optional] 
+**data_usage_remaining_in_bytes** | **int** |  | [optional] 
+**sms_usage_remaining_in_nums** | **int** |  | [optional] 
+**package_type_id** | **int** |  | [optional] 
+**name** | **string** |  | [optional] 
+**supported_countries** | **string** |  | [optional] 
+**preferred_imsi_id** | **int** |  | [optional] 
+**voice_usage_allowance_in_seconds** | **int** |  | [optional] 
+**data_usage_allowance_in_bytes** | **int** |  | [optional] 
+**sms_usage_allowance_in_nums** | **int** |  | [optional] 
+**epoch_earliest_activation** | **int** |  | [optional] 
+**activation_time_allowance_in_seconds** | **int** |  | [optional] 
+**activation_type** | **string** |  | [optional] 
+**epoch_earliest_available** | **int** |  | [optional] 
+**epoch_latest_available** | **int** |  | [optional] 
+**notes** | **string** |  | [optional] 
+**data_usage_allowance_type** | **string** |  | [optional] 
+**voice_usage_allowance_type** | **string** |  | [optional] 
+**sms_usage_allowance_type** | **string** |  | [optional] 
+**traffic_policy_id** | **int** |  | [optional] 
+**network_plan_id** | **int** |  | [optional] 
+**description** | **string** |  | [optional] 
+**distributor_id** | **int** |  | [optional] 
+**epoch_max_modified** | **int** |  | [optional] 
+**time_allowance_duration** | **int** |  | [optional] 
+**time_allowance_unit** | **string** |  | [optional] 
+
+[[Back to Model list]](../../README.md#documentation-for-models) [[Back to API list]](../../README.md#documentation-for-api-endpoints) [[Back to README]](../../README.md)
+
